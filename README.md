@@ -1,2 +1,2 @@
 # hello-world
-Repository to learn how to use repositories
+I'm a first time git hub user and learning how to make commits
